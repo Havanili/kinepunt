@@ -1,3 +1,3 @@
 # kinepunt
 
-Copyright (C) 2020 I. Stroeckx 
+Copyright (C) 2021 I. Stroeckx 
