@@ -1,10 +1,4 @@
 
-User-agent: *
-Sitemap: https://kinepuntschilde.be/sitemap.xml
-
-User-agent: adsbot-google
-Sitemap: https://kinepuntschilde.be/sitemap.xml
-
 User-agent: Nutch
 Disallow: /
 Sitemap: https://kinepuntschilde.be/sitemap.xml
