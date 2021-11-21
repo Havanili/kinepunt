@@ -1,20 +1,15 @@
 
 User-agent: Nutch
-Disallow: /
 Sitemap: https://kinepuntschilde.be/sitemap.xml
 
 User-agent: AhrefsBot
-Crawl-delay: 10
 Sitemap: https://kinepuntschilde.be/sitemap.xml
 
 User-agent: AhrefsSiteAudit
-Crawl-delay: 10
 Sitemap: https://kinepuntschilde.be/sitemap.xml
 
 User-agent: MJ12bot
-Crawl-Delay: 10
 Sitemap: https://kinepuntschilde.be/sitemap.xml
 
 User-agent: Pinterest
-Crawl-delay: 1
 Sitemap: https://kinepuntschilde.be/sitemap.xml
